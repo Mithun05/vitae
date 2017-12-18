@@ -7,29 +7,29 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://myjekyll.github.io/vitae
-author: Fábio Madeira
+url: http://mithun05.github.io/vitae
+author: Mithun Deshpande
 
 # edit this section with your information
-# myjekyll.github.io - all contents run on /vitae/
+# mithun05.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://myjekyll.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
+title: Mithun Deshpande's Experience
+name: Mithun Deshpande
+email: mdeshpa1@binghamton.edu
+email_full: mailto:mdeshpa1@binghamton.edu
+website: github.io/portfolio
+website_full: https://mithun05.github.io/portfolio
+github: mithun05
+twitter: mgd2171991
+tel: +607 338 8440
+tel_full: tel:+6073388440
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
+  street: 222 Main Street Apt 6
+  postcode: 13905
+  city: Binghamton
+  country: USA
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
